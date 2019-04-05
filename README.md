@@ -1,2 +1,1 @@
-# bu-shinidemei
-aweisile
+<awsl></awsl>
